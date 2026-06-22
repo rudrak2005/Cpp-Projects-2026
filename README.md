@@ -69,7 +69,7 @@ Student-Management-System-CPP/
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 Compile the project:
 
